@@ -12,6 +12,3 @@ O projeto exibe uma pergunta na tela com dois botões: **Sim** e **Não**.
 - CSS3
 - JavaScript
 
-## 💻 Como rodar o projeto
-1. Clone este repositório.
-2. Abra o arquivo `index.html` em qualquer navegador ou use a extensão **Live Server** no VS Code.
