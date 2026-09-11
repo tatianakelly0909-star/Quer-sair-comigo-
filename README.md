@@ -12,3 +12,4 @@ O projeto exibe uma pergunta na tela com dois botões: **Sim** e **Não**.
 - CSS3
 - JavaScript
 
+https://tatianakelly0909-star.github.io/Quer-sair-comigo-/
